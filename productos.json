@@ -1,0 +1,80 @@
+{
+    "productos": [
+        {
+            "tipo": "Cake",
+            "nombre": "Black Cake",
+            "precio": "1350"
+        },
+        {
+            "tipo": "Cake",
+            "nombre": "Eggless Cake",
+            "precio": "1450"
+        },
+        {
+            "tipo": "Cake",
+            "nombre": "Cup Cake",
+            "precio": "1550"
+        },
+        {
+            "tipo": "Cake",
+            "nombre": "Oreo Cheesecake",
+            "precio": "1650"
+        },
+        {
+            "tipo": "Cake",
+            "nombre": "Truffle Cake",
+            "precio": "1750"
+        },
+        {
+            "tipo": "Drink",
+            "nombre": "Hot Drinks",
+            "precio": "1100"
+        },
+        {
+            "tipo": "Drink",
+            "nombre": "Soda Drinks",
+            "precio": "1300"
+        },
+        {
+            "tipo": "Drink",
+            "nombre": "Wine Drink",
+            "precio": "2300"
+        },
+        {
+            "tipo": "Drink",
+            "nombre": "Barley Drink",
+            "precio": "2500"
+        },
+        {
+            "tipo": "Drink",
+            "nombre": "Dite Drink",
+            "precio": "1200"
+        },  
+        {
+            "tipo": "IceCream",
+            "nombre": "Blue Moon IceCream",
+            "precio": "1575"
+        },    
+        {
+            "tipo": "IceCream",
+            "nombre": "Grape-Nut IceCream",
+            "precio": "1625"
+        },  
+        {
+            "tipo": "IceCream",
+            "nombre": "Pistachio IceCream",
+            "precio": "1400"
+        },  
+        {
+            "tipo": "IceCream",
+            "nombre": "Oreo IceCream",
+            "precio": "1800"
+        },  
+        {
+            "tipo": "IceCream",
+            "nombre": "Italian IceCream",
+            "precio": "1610"
+        }                        
+
+    ]
+}
